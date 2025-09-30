@@ -1,8 +1,16 @@
-{{ define "main" }}
-  <main>
-    <h1>{{ .Title }}</h1>
-    <article>
-      {{ .Content }}
-    </article>
-  </main>
-{{ end }}
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>{{ .Title }}</title>
+  </head>
+  <body>
+    <main>
+      <h1>{{ .Title }}</h1>
+      <article>
+        {{ .Content }}
+      </article>
+    </main>
+  </body>
+</html>
+
