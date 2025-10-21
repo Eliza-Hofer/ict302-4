@@ -6,14 +6,14 @@
     <description>Recent content in Posts on ICT 302 Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 12:15:37 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First Real Post</title>
-      <link>http://localhost:1313/posts/content/posts/2025-10-14-this-is-the-first-real-post-on-this-website/</link>
-      <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/content/posts/2025-10-14-this-is-the-first-real-post-on-this-website/</guid>
-      <description>&lt;p&gt;Hey everyone, lead developer Eliza Hofer here starting my devnotes on the website here. We got the theme setup but we might change it if we don&amp;rsquo;t like how this post looks when I post this. I will occasionally post the development updates here as the semester goes on.&lt;/p&gt;</description>
+      <title>Hofer</title>
+      <link>http://localhost:1313/posts/hofer/</link>
+      <pubDate>Tue, 14 Oct 2025 12:15:37 -0400</pubDate>
+      <guid>http://localhost:1313/posts/hofer/</guid>
+      <description></description>
     </item>
     <item>
       <title>Testpost</title>
