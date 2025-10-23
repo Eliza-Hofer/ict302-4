@@ -1,4 +1,4 @@
 baseURL = 'https://stunning-sprinkles.netlify.app'
 languageCode = 'en-us'
 title = 'ICT 302 Project'
-theme = 'archie-master'
+theme = 'ananke2'
