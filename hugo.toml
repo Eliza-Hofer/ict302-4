@@ -1,9 +1,6 @@
 baseURL = 'https://stunning-sprinkles.netlify.app'
 languageCode = 'en-us'
 title = 'ICT 302 Project'
-<<<<<<< HEAD
-theme = 'ananke'
-=======
 theme = 'ananke2'
 
 [menu]
@@ -11,5 +8,3 @@ theme = 'ananke2'
     name = "Home"
     url = "/"
     weight = 1
-
->>>>>>> 44dfa867afc7e3619c7c559e51b0c6d46e26c8e4
