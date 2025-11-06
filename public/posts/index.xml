@@ -27,6 +27,13 @@
       <link>http://localhost:1313/posts/larson-post/</link>
       <pubDate>Tue, 14 Oct 2025 12:12:53 -0400</pubDate>
       <guid>http://localhost:1313/posts/larson-post/</guid>
+      <description>&lt;p&gt;Content for post! Test&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zeiher Page</title>
+      <link>http://localhost:1313/posts/zeiher-page/</link>
+      <pubDate>Tue, 14 Oct 2025 12:10:40 -0400</pubDate>
+      <guid>http://localhost:1313/posts/zeiher-page/</guid>
       <description></description>
     </item>
     <item>
