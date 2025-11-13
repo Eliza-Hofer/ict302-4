@@ -6,13 +6,13 @@ theme = 'ananke2'
 [menus]
   [[menus.main]]
     name = 'Home'
-    pageRef = 'Content'
+    pageRef = '/Content'
     weight = 10
   [[menus.main]]
     name = 'Posts'
-    pageRef = 'larson-post'
+    pageRef = '/larson-page'
     weight = 20
   [[menus.main]]
     name = 'Page'
-    pageRef = 'hofer-page'
+    pageRef = '/hofer-page'
     weight = 30
