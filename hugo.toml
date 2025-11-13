@@ -6,7 +6,7 @@ theme = 'ananke2'
 [menus]
   [[menus.main]]
     name = 'Home'
-    pageRef = '/'
+    pageRef = 'Content'
     weight = 10
   [[menus.main]]
     name = 'Posts'
