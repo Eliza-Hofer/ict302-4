@@ -10,9 +10,9 @@ theme = 'ananke2'
     weight = 10
   [[menus.main]]
     name = 'Posts'
-    pageRef = 'posts'
+    pageRef = 'larson-post'
     weight = 20
   [[menus.main]]
-    name = 'Content'
-    pageRef = 'Content'
+    name = 'Page'
+    pageRef = 'hofer-page'
     weight = 30
