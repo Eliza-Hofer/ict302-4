@@ -1,7 +1,7 @@
 baseURL = 'https://stunning-sprinkles.netlify.app'
 languageCode = 'en-us'
 title = 'ICT 302 Project'
-theme = 'ananke'
+theme = 'ananke2'
 
 [menus]
   [[menus.main]]
@@ -9,10 +9,10 @@ theme = 'ananke'
     pageRef = '/'
     weight = 10
   [[menus.main]]
-    name = 'Products'
-    pageRef = '/products'
+    name = 'Posts'
+    pageRef = 'posts'
     weight = 20
   [[menus.main]]
-    name = 'Services'
-    pageRef = '/services'
+    name = 'Content'
+    pageRef = 'Content'
     weight = 30
