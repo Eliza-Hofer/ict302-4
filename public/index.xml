@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ICT 302 Project</title>
+    <title>Nailed It</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on ICT 302 Project</description>
+    <description>Recent content on Nailed It</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 29 Oct 2025 16:43:44 -0400</lastBuildDate>
@@ -16,11 +16,11 @@
       <description>&lt;p&gt;Company Create Account Here:&lt;/p&gt;&#xA;&lt;p&gt;Company:&#xA;Job Summary:&#xA;Job Type:&#xA;Job Level:&#xA;Job Requirements:&#xA;Location:&#xA;Salary/Pay:&#xA;Company Values:&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Zeiher Post</title>
+      <title>What is Nailed.It?</title>
       <link>http://localhost:1313/posts/zeiher-post/</link>
       <pubDate>Thu, 23 Oct 2025 11:30:03 -0400</pubDate>
       <guid>http://localhost:1313/posts/zeiher-post/</guid>
-      <description>&lt;p&gt;If you are in the construction feild looking for a job, this app is for you!&lt;/p&gt;</description>
+      <description>&lt;p&gt;If you are in the construction feild looking for a job, this app is for you! This app is designed to help connect construction workers with companies that are looking to hire, in a simple and easy way. Companies can create profiles and post what kind of workers they need, including skills, experience, and job location. Workers can also create profiles that show their trade, certifications, and availability. The app then shows users potential matches based on what they’re looking for, allowing both workers and companies to show interest in each other. When both sides are interested, they can connect and communicate directly through the app, making the hiring process faster and easier for everyone involved.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Zeiher Page</title>
