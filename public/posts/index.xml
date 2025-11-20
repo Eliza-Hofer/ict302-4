@@ -6,8 +6,22 @@
     <description>Recent content in Posts on ICT 302 Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Oct 2025 12:15:37 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 11:30:03 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zeiher Post</title>
+      <link>http://localhost:1313/posts/zeiher-post/</link>
+      <pubDate>Thu, 23 Oct 2025 11:30:03 -0400</pubDate>
+      <guid>http://localhost:1313/posts/zeiher-post/</guid>
+      <description>&lt;p&gt;If you are in the construction feild looking for a job, this app is for you!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shanklin Post</title>
+      <link>http://localhost:1313/posts/shanklin-post/</link>
+      <pubDate>Thu, 16 Oct 2025 11:29:14 -0400</pubDate>
+      <guid>http://localhost:1313/posts/shanklin-post/</guid>
+      <description>&lt;p&gt;Test post&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hofer</title>
       <link>http://localhost:1313/posts/hofer/</link>
@@ -20,7 +34,7 @@
       <link>http://localhost:1313/posts/larson-post/</link>
       <pubDate>Tue, 14 Oct 2025 12:12:53 -0400</pubDate>
       <guid>http://localhost:1313/posts/larson-post/</guid>
-      <description>&lt;p&gt;Content for post! Test&lt;/p&gt;</description>
+      <description></description>
     </item>
     <item>
       <title>Zeiher Page</title>
