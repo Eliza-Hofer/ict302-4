@@ -13,11 +13,10 @@ custom_css = ["custom.css"]
    name = 'home'
    pageref = '/'
    weight = 34
-[[menu.main]]
+[[menus.main]]
    name = 'Hofer-Page'
    pageref = '/Hofer-Page'
    weight = 35
-   [menus]
 [[menus.main]]
     name = 'Larson Page'
     pageRef = '/larson-page'
