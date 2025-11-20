@@ -1,7 +1,7 @@
 baseURL = 'https://stunning-sprinkles.netlify.app'
 languageCode = 'en-us'
 title = 'ICT 302 Project'
-theme = 'ananke'
+theme = 'ananke_safe'
 
 sectionPagesMenu = 'main'
 
