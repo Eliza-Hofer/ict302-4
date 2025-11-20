@@ -1,19 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ICT 302 Project</title>
+    <title>Nailed It</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on ICT 302 Project</description>
+    <description>Recent content on Nailed It</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Oct 2025 11:34:03 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 16:43:44 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hofer Page</title>
+      <link>http://localhost:1313/hofer-page/</link>
+      <pubDate>Wed, 29 Oct 2025 16:43:44 -0400</pubDate>
+      <guid>http://localhost:1313/hofer-page/</guid>
+      <description>&lt;p&gt;Content test for Hofer Page!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zeiher Post</title>
+      <link>http://localhost:1313/posts/zeiher-post/</link>
+      <pubDate>Thu, 23 Oct 2025 11:30:03 -0400</pubDate>
+      <guid>http://localhost:1313/posts/zeiher-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zeiher Page</title>
+      <link>http://localhost:1313/zeiher-page/</link>
+      <pubDate>Thu, 23 Oct 2025 11:28:02 -0400</pubDate>
+      <guid>http://localhost:1313/zeiher-page/</guid>
+      <description>&lt;p&gt;Welcome to our Website!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Larson Page</title>
       <link>http://localhost:1313/larson-page/</link>
       <pubDate>Thu, 16 Oct 2025 11:34:03 -0400</pubDate>
       <guid>http://localhost:1313/larson-page/</guid>
       <description>&lt;p&gt;Content test for Larson Page!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shanklin Post</title>
+      <link>http://localhost:1313/posts/shanklin-post/</link>
+      <pubDate>Thu, 16 Oct 2025 11:29:14 -0400</pubDate>
+      <guid>http://localhost:1313/posts/shanklin-post/</guid>
+      <description>&lt;p&gt;Test post&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shanklin Page</title>
+      <link>http://localhost:1313/shanklin-page/</link>
+      <pubDate>Thu, 16 Oct 2025 11:20:02 -0400</pubDate>
+      <guid>http://localhost:1313/shanklin-page/</guid>
+      <description>&lt;p&gt;Content test&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hofer</title>
@@ -27,7 +62,7 @@
       <link>http://localhost:1313/posts/larson-post/</link>
       <pubDate>Tue, 14 Oct 2025 12:12:53 -0400</pubDate>
       <guid>http://localhost:1313/posts/larson-post/</guid>
-      <description>&lt;p&gt;Content for post! Test&lt;/p&gt;</description>
+      <description></description>
     </item>
     <item>
       <title>Zeiher Page</title>
@@ -42,13 +77,6 @@
       <pubDate>Sat, 11 Oct 2025 19:41:01 -0400</pubDate>
       <guid>http://localhost:1313/posts/testpost/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>testpost</title>
-      <link>http://localhost:1313/2025-09-26-this-is-a-test/</link>
-      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2025-09-26-this-is-a-test/</guid>
-      <description>&lt;p&gt;This is a test post of my custom workflow&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
