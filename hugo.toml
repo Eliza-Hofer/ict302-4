@@ -1,6 +1,6 @@
 baseURL = 'https://stunning-sprinkles.netlify.app'
 languageCode = 'en-us'
-title = 'ICT 302 Project'
+title = 'Nailed It'
 theme = 'ananke_safe'
 
 sectionPagesMenu = 'main'
@@ -10,14 +10,15 @@ custom_css = ["custom.css"]
 
 [menus]
 [[menus.main]]
-   name = 'home'
+   name = 'Home'
    pageref = '/'
-   weight = 34
+   weight = 10
+  
 [[menus.main]]
-   name = 'Hofer-Page'
+   name = 'Looking to Hire?'
    pageref = '/Hofer-Page'
-   weight = 35
+   weight = 20
 [[menus.main]]
-    name = 'Larson Page'
+    name = 'Seeking Work?'
     pageRef = '/larson-page'
-    weight = 10
+    weight = 30
