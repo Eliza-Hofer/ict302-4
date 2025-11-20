@@ -1,7 +1,18 @@
 +++
 date = '2025-10-16T11:34:03-04:00'
 
-title = 'Larson Page'
+title = 'People looking for a construction job'
 +++
-Content test for Larson Page!
+Create an account here:
 
+Job Type
+
+Insert headshot/projects  
+
+Skills 
+
+work experience (link of resume)
+
+Values they look for in a company
+
+Location
