@@ -15,10 +15,10 @@ custom_css = ["custom.css"]
    weight = 10
   
 [[menus.main]]
-   name = 'Looking to Hire'
+   name = 'Looking to Hire?'
    pageref = '/Hofer-Page'
    weight = 20
 [[menus.main]]
-    name = 'Seeking Work'
+    name = 'Seeking Work?'
     pageRef = '/larson-page'
     weight = 30
