@@ -1,12 +1,24 @@
 baseURL = 'https://stunning-sprinkles.netlify.app'
 languageCode = 'en-us'
 title = 'ICT 302 Project'
-theme = 'ananke2'
+theme = 'ananke'
+
+sectionPagesMenu = 'main'
+
+[params]
+custom_css = ["custom.css"]
 
 [menus]
-  [[menus.main]]
+[[menus.main]]
+   name = 'home'
+   pageref = '/'
+   weight = 34
+[[menu.main]]
+   name = 'Hofer-Page'
+   pageref = '/Hofer-Page'
+   weight = 35
+   [menus]
+[[menus.main]]
     name = 'Larson Page'
     pageRef = '/larson-page'
     weight = 10
-  
- 

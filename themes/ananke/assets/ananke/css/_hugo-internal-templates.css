@@ -17,9 +17,9 @@
 
 .pagination li a {
   padding: .5rem .625rem;
-  background-color: white;
-  color: #333;
-  border: 1px solid #ddd;
+  background-color: #FF75DC;
+  color: yellow;
+  border: 1px solid #FF75DC;
   border-radius: 3px;
   text-decoration: none;
 }
@@ -30,7 +30,7 @@
 .pagination li.active a:link,
 .pagination li.active a:active,
 .pagination li.active a:visited {
-  background-color: #ddd;
+  background-color: #FF75DC;
 }
 
 #TableOfContents ul li {
