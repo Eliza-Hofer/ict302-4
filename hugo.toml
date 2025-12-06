@@ -3,22 +3,22 @@ languageCode = 'en-us'
 title = 'Nailed It'
 theme = 'ananke_safe'
 
-sectionPagesMenu = 'main'
+sectionPagesMenu = 'nav'
 
 [params]
 custom_css = ["custom.css"]
 
 [menus]
-[[menus.main]]
+[[menus.nav]]
    name = 'Home'
    pageref = '/'
    weight = 10
   
-[[menus.main]]
+[[menus.nav]]
    name = 'Looking to Hire?'
    pageref = '/Hofer-Page'
    weight = 20
-[[menus.main]]
+[[menus.nav]]
     name = 'Seeking Work?'
     pageRef = '/larson-page'
     weight = 30
