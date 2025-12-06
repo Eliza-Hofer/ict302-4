@@ -9,16 +9,16 @@ sectionPagesMenu = 'nav'
 custom_css = ["custom.css"]
 
 [menus]
-[[menus.nav]]
+[[menus.main]]
    name = 'Home'
    pageref = '/'
    weight = 10
   
-[[menus.nav]]
+[[menus.main]]
    name = 'Looking to Hire?'
    pageref = '/Hofer-Page'
    weight = 20
-[[menus.nav]]
+[[menus.main]]
     name = 'Seeking Work?'
     pageRef = '/larson-page'
     weight = 30
