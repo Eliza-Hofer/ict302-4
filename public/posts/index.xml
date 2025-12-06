@@ -29,19 +29,5 @@
       <guid>http://localhost:1313/posts/hofer/</guid>
       <description>&lt;p&gt;This app is like Tinder for construction work, and I love it. It is a super easy way to find construction jobs! I just set up my profile, swipe through jobs, and match with contractors instantly. The pay is shown upfront, the matches actually fit my skills, and I’ve been able to find steady work way faster than before. Highly recommend!&lt;/p&gt;</description>
     </item>
-    <item>
-      <title>Larson Post</title>
-      <link>http://localhost:1313/posts/larson-post/</link>
-      <pubDate>Tue, 14 Oct 2025 12:12:53 -0400</pubDate>
-      <guid>http://localhost:1313/posts/larson-post/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Testpost</title>
-      <link>http://localhost:1313/posts/testpost/</link>
-      <pubDate>Sat, 11 Oct 2025 19:41:01 -0400</pubDate>
-      <guid>http://localhost:1313/posts/testpost/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
