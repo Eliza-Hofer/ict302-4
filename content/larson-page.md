@@ -9,13 +9,19 @@ title = 'People looking for a construction job'
 Create an account here:
 
 Job Type
+{{< textbox >}}
 
 Insert headshot/projects  
+{{< textbox >}}
 
 Skills 
+{{< textbox >}}
 
 work experience (link of resume)
+{{< textbox >}}
 
 Values they look for in a company
+{{< textbox >}}
 
 Location
+{{< textbox >}}

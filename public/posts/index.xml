@@ -29,5 +29,12 @@
       <guid>http://localhost:1313/posts/hofer/</guid>
       <description>&lt;p&gt;This app is like Tinder for construction work, and I love it. It is a super easy way to find construction jobs! I just set up my profile, swipe through jobs, and match with contractors instantly. The pay is shown upfront, the matches actually fit my skills, and I’ve been able to find steady work way faster than before. Highly recommend!&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>⭐️⭐️⭐️⭐️ &#34;Great tool for any contractor!&#34;</title>
+      <link>http://localhost:1313/posts/review/</link>
+      <pubDate>Thu, 23 Oct 2025 11:30:03 -0400</pubDate>
+      <guid>http://localhost:1313/posts/review/</guid>
+      <description>&lt;p&gt;As a construction company, this app has been a huge time-saver. We post a job, and within minutes we’re matching with qualified workers in our area. No long hiring process—just swipe, match, and message. The workers’ profiles make it easy to verify skills and certifications, and we’ve filled last-minute positions more efficiently than ever. Great tool for any contractor! Just wish more people knew about the app!&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
