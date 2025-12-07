@@ -1,0 +1,32 @@
++++
+date = '2025-10-23T11:30:03-04:00'
+draft = true
+title = 'AboutUs'
+weight = 50
++++
+If you are in the construction field looking for a job, this app is for you! This app is designed to help connect construction workers with companies that are looking to hire, in a simple and easy way. Companies can create profiles and post what kind of workers they need, including skills, experience, and job location. Workers can also create profiles that show their trade, certifications, and availability. The app then shows users potential matches based on what they’re looking for, allowing both workers and companies to show interest in each other. When both sides are interested, they can connect and communicate directly through the app, making the hiring process faster and easier for everyone involved. 
+# How It Works 
+**Sign Up:** Create a profile as a worker or company.
+
+**Set Preferences:** Add skills, certifications, or job requirements.
+
+**Get Matched:** See potential matches instantly.
+
+**Connect & Hire:** Chat and finalize hiring directly in the app.
+# Key Features
+**Smart Matching:** Connects the right workers with the right companies quickly.
+
+**Verified Profiles:** See qualifications, certifications, and experience at a glance.
+
+**Direct Messaging:** Communicate instantly without lengthy emails or calls.
+
+**Job Alerts:** Get notified when new opportunities match your skills or needs.
+
+**Flexible Filters:** Search by location, trade, experience, or certifications.
+# Benefits 
+**For Workers:** Find more job opportunities, showcase your skills, and save time.
+
+**For Companies:** Access qualified candidates faster, reduce hiring costs, and streamline recruitment.
+
+***Everyone Wins:*** Faster connections mean projects get staffed quickly and efficiently.
+

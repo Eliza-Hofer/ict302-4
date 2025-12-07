@@ -26,3 +26,7 @@ custom_css = ["custom.css"]
     name = 'demo'
     pageref = '/demo'
     weight = 40
+[[menus.main]]
+    name = 'About Us'
+    pageref = '/aboutus'
+    weight = 50
