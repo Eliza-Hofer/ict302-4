@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/cheshirekitn/Development/School/ict302-4",
+	"sourceRoot": "/Users/libbylarson/ict302-4",
 	"sources": [
 		"ananke/css/main.css"
 	],
