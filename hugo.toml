@@ -22,3 +22,7 @@ custom_css = ["custom.css"]
     name = 'Seeking Work?'
     pageRef = '/larson-page'
     weight = 30
+[[menus.main]]
+    name = 'demo'
+    pageref = '/demo'
+    weight = 40

@@ -8,17 +8,18 @@ title = 'Companies Looking to Hire '
 Company Create Account Here:
 
 Company:
-
+{{< textbox >}}
 Job Summary:
-
+{{< textbox >}}
 Job Type:
-
+{{< textbox >}}
 Job Level:
-
+{{< textbox >}}
 Job Requirements:
-
+{{< textbox >}}
 Location:
-
+{{< textbox >}}
 Salary/Pay:
-
+{{< textbox >}}
 Company Values:
+{{< textbox >}}
